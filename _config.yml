@@ -3,7 +3,7 @@ name: Forge Painting
 email: info@forgepainting.com.au
 formurl: https://submit-form.com/SwoAhsDh
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Java"
+keywords: "Your trusted painters"
 skills: "Software Engineer - Java Developer"
 baseurl: https://jayden626.github.io/Portfolio
 
@@ -13,7 +13,7 @@ social:
   - title: instagram
     url: https://www.instagram.com/ChurchOfUrch
   - title: github
-    url: https://www.github.com/jayden626
+    url: https://www.github.com/ForgePainting
     
 # Google webmaster tools
 google_verify:
