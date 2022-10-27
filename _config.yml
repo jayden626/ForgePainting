@@ -1,0 +1,39 @@
+# Site settings
+name: Jayden Urch
+email: Jayden.Urch@uon.edu.au
+formurl: https://submit-form.com/SwoAhsDh
+#canonical_url: https://edwinexemplar.com
+keywords: "Software Engineer, Java"
+skills: "Software Engineer - Java Developer"
+baseurl: https://jayden626.github.io/Portfolio
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# You should replace these with your social networks, of course. :)
+social:
+  - title: instagram
+    url: https://www.instagram.com/ChurchOfUrch
+  - title: github
+    url: https://www.github.com/jayden626
+    
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Color settings (hex-codes without the leading hash-tag)
+# You must update the navbar color in cbpAnimatedHeader.js. Currently used the 'secondary' converted to RGB values
+color:
+  primary: 2196F3
+  primary-rgb: "33, 150, 243"
+  secondary: 285172
+  link-box-rgb: "40, 81, 144"
+  secondary-dark: 29455b
+  section-tout: eaf1f1
+  navbar-primary: 00000000
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
