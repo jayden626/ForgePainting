@@ -4,16 +4,16 @@ email: info@forgepainting.com.au
 formurl: https://submit-form.com/SwoAhsDh
 #canonical_url: https://edwinexemplar.com
 keywords: "Your trusted painters"
-skills: "Software Engineer - Java Developer"
-baseurl: https://jayden626.github.io/Portfolio
+skills: "You name it, we paint it"
+baseurl: https://jayden626.github.io/ForgePainting
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: instagram
-    url: https://www.instagram.com/ChurchOfUrch
-  - title: github
-    url: https://www.github.com/ForgePainting
+    url: https://www.instagram.com/ForgePainting
+  - title: facebook
+    url: https://www.facebook.com/profile.php?id=100086971252718
     
 # Google webmaster tools
 google_verify:
