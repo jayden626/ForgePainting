@@ -1,19 +1,17 @@
 # Site settings
-name: Jayden Urch
-email: Jayden.Urch@uon.edu.au
+name: Forge Painting & Decorating
+email: TBD
 formurl: https://submit-form.com/SwoAhsDh
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Java"
-skills: "Software Engineer - Java Developer"
-baseurl: https://jayden626.github.io/Portfolio
+keywords: "Painting, Decorating, Newcastle, Central Coast"
+skills: "Interior, Exterior, and Decorating"
+baseurl: https://jayden626.github.io/ForgeDecorating
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: instagram
-    url: https://www.instagram.com/ChurchOfUrch
-  - title: github
-    url: https://www.github.com/jayden626
+    url: https://www.instagram.com/ForgePainting
     
 # Google webmaster tools
 google_verify:
