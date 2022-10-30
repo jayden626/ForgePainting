@@ -87,6 +87,17 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.service-icon {
+    width: 50%;
+}
+
+@media(max-width:767px) {
+    .service-icon {
+        width: 20%;
+    }
+}
+
+
 header {
     text-align: center;
     color: #fff;
